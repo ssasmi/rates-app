@@ -1,0 +1,20 @@
+.container {
+  max-width: 980px;
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.buttons {
+  margin-bottom: 30px;
+}
+
+.button {
+  min-width: 250px;
+}

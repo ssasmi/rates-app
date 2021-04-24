@@ -1,0 +1,3 @@
+export const CHANGE_MAIN_CUR = "CHANGE_MAIN_CUR";
+export const CHANGE_SECOND_CUR = "CHANGE_SECOND_CUR";
+export const CHANGE_BOTH_CUR = "CHANGE_BOTH_CUR";
